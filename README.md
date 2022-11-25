@@ -189,7 +189,7 @@ Wrapped teddy bear and added a bow!
 Wrapped drone and added a bow!
 Wrapped doll and added a bow!
 ```
-
+//
 ### Assignment
 
 In the previous section, the `wrapGifts()` function allowed us to take any array
